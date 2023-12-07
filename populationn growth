@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><meta name="Viewport" content="width=device-width ;initial-scale=1.0" />
+<title>Population Growth - A Topic Of Living Environment</title><link href="population.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar">
+<section class="nav-center">
+<div class="nav-header">
+<a href="helloworld.html" class="nav-logo">
+<img src="https://logowik.com/content/uploads/images/census1869.jpg" alt="Census.info" style="height:120px;width: 200px; 
+padding-left: 50px;"/></a>
+</div>
+<div class="nav-links">
+<a href="helloworld.html" class="nav-link"> home </a><a href="causes.html" class="nav-link"> roots </a>
+<a href="solutions.html" class="nav-link"> keys </a></div>
+</section>
+</nav>
+<main class="main page">
+<section class="introduction">
+<h4>Population Growth - Explained</h4>
+<img src="https://t3.ftcdn.net/jpg/02/89/09/94/360_F_289099442_2VPJxVHromc2mFvqwsqxXtpNz36LrCBj.jpg" style="width: 450px;">
+<p>
+Population growth is the increase in the number of people in a population or dispersed group.<br><span>(Or)<br><span>Population 
+growth is the increase in the number of living beings on Earth. For most of human history our population size was relatively stable. But 
+with innovation and industrialization, energy, food, water, and medical care became more available and reliable. Consequently, global 
+human population rapidly increased, and continues to do so, with dramatic impacts on global climate and ecosystems. We will need 
+technological and social innovation to help us support the world’s population as we adapt to and mitigate climate and environmental 
+changes.
+</p>
+</section>
+<br><hr><br>
+<section>
+<h4>Population Growth - Calculation</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Population_curve.svg" style="width: 350px;">
+<p>
+When determining whether a population is overpopulated a variety of factors must be looked at. Given the complexity of the issue, 
+scientists and wildlife managers often differ in judging such claims. In many cases scientists will look to food sources and living space 
+to gauge the abundance of a species in a particular area. National parks collect extensive data on the activities and quality of the 
+environment they are established in. This data can be used to track whether a specific species is consuming larger amounts of their 
+desired food source over time. 
+</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/World_population_%28UN%29.svg/1024px-World_population_
+%28UN%29.svg.png" style="width: 350px; padding-top: 15px;">
+<p>
+This is done typically in four ways, the first being "total counting". Researchers will use aerial photography to count large populations 
+in a specific area such as deer, waterfowl, and other "flocking" or "herd" animals. Incomplete counts involve counting a small 
+subsection of a population and extrapolating the data across the whole area. This method will take into account the behavior of the 
+animals such as how much territory a herd may cover, the density of the population, and other potential factors that may come into 
+question. 
+</p>
+<p>
+The third method is "indirect counts"; this is done by looking at the environment for signs of animal presence.Typically done by 
+counting fecal matter or dens/nesting of a particular animal. This method is not as accurate as direct counting, but gives general 
+counts of a population in a specific locale. 
+</p>
+<h5>Population Growth Formula</h5>
+<a href="https://calculator.academy/population-growth-calculator/" target="_blank"><img src="https://calculator.academy/wpcontent/uploads/2020/04/Population-growth-calculator.jpg" style="width: 450px;"></a>
+<p>
+The following formula is used to calculate a population size after a certain number of years.<br>
+x(t) = x<sub>0</sub> × (1 + r) <sup>t</sup><br>Where 
+<br>x(t) is the final population after time t
+<br>x<sub>0</sub> is the initial population
+<br>r is the rate of growth
+<br>and 
+<br>t is the total time (number of years)
+</p>
+</section>
+<br><hr><br>
+<section class="global-info">
+<h4>Population Variation Across the Globe</h4>
+<table class="table" style="float: right; clear:right; margin: auto">
+<caption>Population</caption>
+<caption></caption>
+<tbody><tr><th style="background-color: #cfb;">Years<br>passed</th>
+<th style="background-color: #cfb;">Year</th><th style="background-color: #cfb;">Pop.<br>(billions) </th></tr>
+<tr><td align="left">–</td><td>1800</td><td align="right"></td></tr>
+<tr><td align="left">127</td><td>1927</td><td align="right">2</td></tr>
+<tr><td align="left">33</td><td>1960</td><td align="right">3</td></tr>
+<tr><td align="left">14</td><td>1974</td><td align="right">4</td></tr>
+<tr><td align="left">13</td><td>1987</td><td align="right">5</td></tr>
+<tr><td align="left">12</td><td>1999</td><td align="right">6</td></tr>
+<tr><td align="left">12</td><td>2011</td><td align="right">7</td></tr>
+<tr><td align="left">11</td><td>2022</td><td align="right">8</td></tr>
+<tr><td align="left"><i>14</i></td><td><i>2037</i>*</td><td align="right">9</td></tr>
+<tr><td align="left"><i>18</i></td><td><i>2055</i>*</td><td align="right">10</td></tr>
+<tr><td align="left"><i>33</i></td><td><i>2088</i>*</td><td align="right">11</td></tr>
+<tr><td align="left" colspan="3"><small>*World Population Prospects 2017<br>(United Nations Population 
+Division)</small></td></tr>
+</tbody></table>
+<p>
+For most of human history, the global population was a tiny fraction of what it is today.
+Over the last few centuries, the human population has gone through an extraordinary change. 
+In 1800, there were one billion people. Today there are more than 8 billion of us.
+But after a period of very fast population growth, demographers expect the world population to peak by the end of this century.
+On this page, you will find all of our data, charts, and writing on changes in population growth. 
+This includes how populations are distributed worldwide, how this has changed, and what demographers expect for the future.
+</p>
+<p>
+Actual global human population growth amounts to around 83 million annually, or 1.1% per year. 
+The global population has grown from 1 billion in 1800 to 7.9 billion in 2020. 
+The UN projected population to keep growing, and estimates have put the total population at 8.6 billion by mid-2030, 9.8 billion by 
+mid-2050 and 11.2 billion by 2100. 
+However, some academics outside the UN have increasingly developed human population models that account for additional 
+downward pressures on population growth; in such a scenario population would peak before 2100. </p>
+</section>
+<br><hr><br>
+<section>
+<h4>Population - Determined species and Known populus</h4>
+<p>
+About 8.7 million (give or take 1.3 million) is the new, estimated total number of species on Earth
+-- the most precise calculation ever offered -- 
+with 6.5 million species on land and 2.2 million in oceans. 
+Announced by the Census of Marine Life, the figure is based on a new analytical technique. 
+The number of species on Earth had been estimated previously at 3 million to 100 million.
+</p>
+<h5>Birds</h5>
+<img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/23553331/1200" style="width: 350px">
+<p>
+Out of all 9,700 species analyzed, four birds reached what the researchers call the "billion club," or species with an estimated global 
+population of over a billion. 
+These included the house sparrow at 1.6 billion, the European starling at 1.3 billion, the ring-billed gull at 1.2 billion, and the barn 
+swallow at 1.1 billion.
+In contrast, 1,180 species, or 12 percent of the population numbers, have fewer than 5,000 individuals, reports New Scientist. 
+Some of these species included the great spotted kiwi at 377 individuals, the Javan hawk-eagle at 630 individuals, and the Seychelles 
+kestrel with under 100 individuals remaining, per Douglas Main for National Geographic.
+</p>
+<h5>Animals and Insects</h5>
+<img src="https://i0.wp.com/overpopulation-project.com/wp-content/uploads/2018/04/weight-of-vertebrate-land-animals-andhuman.jpg?w=730&h=516&ssl=1" style="width: 450px;">
+<p>
+Scientists believe that 1-2 million of those species are animals. 
+And what do we know about all those species? 
+Not much! The same study estimates that 86% of all land species and 91% of all sea species have not yet been discovered or 
+described!
+Sticking to the species we do know about, let's look at some amazing numbers for particular groups of animals. 
+Scientists believe there are over seven billion humans in the world today. 
+That's a staggering number, but there are more chickens (over 18 billion) than humans. 
+At least we humans do outnumber cattle (1.4 billion) and sheep (1.1 billion).
+Those numbers pale in comparison to the insect world, though. 
+And studies say that the total number of insect species that have been identified are around 900 thousand.
+For example, scientists estimate there are over 10,000 trillion ants alive at any one time. 
+Based upon those numbers, some scientists estimate the total insect population at 10 quintillion, which is 10 billion billion! 
+That figure has led at least one expert to estimate the total animal population on Earth to be about 20 quintillion, or 20 billion billion!
+</p>
+</section>
+</main>
+<footer class="page-footer">
+<p>
+<span id="date"></span>
+<span class="footer-logo">Census</span>
+<br>Built by<br>
+<a href="https://www.linkedin.com/in/pbk-bharadwaj-karthikeya/" target="_blank">P. Bharadwaj Karthikeya</a>,
+<a href="https://www.linkedin.com/in/suraj2705/" target="_blank">Suraj Yadav</a>,
+<a href="https://www.linkedin.com/in/saurabh-chandra-b265b728b/" target="_blank">Saurabh Chandra</a>
+</p>
+</footer>
+</body>
+</html>
+*,::after,::before {box-sizing: border-box;}
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&family=Montserrat&display=swap');
+html {font-size: 100%;}
+/*16px*/
+:root {
+/* colors */
+--primary-100: #e2e0ff;
+--primary-200: #c1beff;
+--primary-300: #a29dff;
+--primary-400: #837dff;
+--primary-500: #645cff;
+--primary-600: #504acc;
+--primary-700: #3c3799;
+--primary-800: #282566;
+--primary-900: #141233;
+/* grey */
+--grey-50: #f8fafc;
+--grey-100: #f1f5f9;
+--grey-200: #e2e8f0;
+--grey-300: #cbd5e1;
+--grey-400: #94a3b8;
+--grey-500: #64748b;
+--grey-600: #475569;
+--grey-700: #334155;
+--grey-800: #1e293b;
+--grey-900: #0f172a;
+/* rest of the colors */
+--black: #222;
+--white: #fff;
+--red-light: #f8d7da;
+--red-dark: #842029;
+--green-light: #d1e7dd;
+--green-dark: #0f5132;
+/* fonts */
+--headingFont: 'Roboto', sans-serif;
+--bodyFont: 'Nunito', sans-serif;
+--smallText: 0.7em;
+/* rest of the vars */
+--backgroundColor: var(--grey-50);
+--textColor: var(--grey-900);
+--borderRadius: 0.25rem;
+--letterSpacing: 1px;
+--transition: 0.3s ease-in-out all;
+--max-width: 1120px;
+--fixed-width: 600px;
+/* box shadow*/
+--shadow-1: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+--shadow-2: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06); 
+ --shadow-3: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); 
+ --shadow-4: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+body {background: var(--white); font-family: var(--bodyFont); font-weight: 400; line-height: 1.75; color: var(--
+textColor);}
+p {margin-top: 10px; margin-bottom: 1.5rem; max-width: 40em;}
+h1,h2,h3,h4,h5 {margin: 0; margin-bottom: 1.38rem; font-family: var(--headingFont); font-weight: 400; lineheight: 1.3; text-transform: capitalize; letter-spacing: var(--letterSpacing);}
+h1 {margin-top: 0; font-size: 3.052rem;}
+h2 {font-size: 2.441rem;}
+h3 {font-size: 1.953rem;}
+h4 {font-size: 1.563rem;}
+h5 {font-size: 1.25rem;}
+small,.text-small {font-size: var(--smallText);}
+a {text-decoration: none;}
+img{float: right; border-radius: 0.5em;}
+ul {list-style-type: none; padding: 0;}
+.img {width: 100%; display: block; object-fit: cover;}
+.table {background-color: #f8f9fa; color: #202122; margin: 5rem 0; border: 1px solid #a2a9b1; border-collapse: 
+collapse;}
+table {width: 100%; max-width: 300px; display: table; border-collapse: separate; box-sizing: border-box; textindent: initial; border-spacing: 50px; border-color: gray;}
+tbody {display: table-row-group; vertical-align: middle; border-color: inherit;}
+tr {display: table-row; vertical-align: inherit; border-color: inherit; width: 60px;}
+/*
+=============== 
+Navbar
+===============
+*/
+.navbar {border-top: 50px; display: flexbox; align-items: flex-start; justify-content: flex-end; width: var(--
+max-width);}
+.nav-center {width: 1100vw; max-width: var(--max-width);}
+.nav-header {height: 6rem; display: flex; justify-content: space-between; align-items: center; margin-right: 
+500px;}
+.nav-header img {width: 300px;}
+.nav-logo {display: flex; align-items: flex-end;}
+.nav-btn {padding: 0.15rem 0.75rem;}
+.nav-btn i {font-size: 1.25rem;}
+.nav-links {height: 0; overflow: hidden; display: flex; flex-direction: column; transition: var(--transition); 
+justify-content: flex-end;}
+.show-links {height: 23.9375rem;}
+.nav-link {display: block; text-align: center; font-size: 500; font-weight: bold; text-transform: capitalize; 
+color: var(--grey-700);letter-spacing: var(--letterSpacing); padding: 1rem 0; border-top: 1px solid var(--grey500); transition: var(--transition);}
+.nav-link:hover {color: var(--green-light);}
+@media screen and (min-width: 992px) {
+.navbar {height: 6rem;}
+.nav-center {display: flex; align-items: center;}
+.nav-header {padding: 0; margin-right: 2rem; height: auto;}
+.nav-btn {display: none;}
+.nav-links {height: auto !important; flex-direction: row; align-items: center; width: 100%;}
+.nav-link {padding: 0; border-top: none; margin-right: 1rem;font-size: 1rem;}
+.contact-link {margin-right: 0;margin-left: auto;}
+}
+/*
+=============== 
+Page
+===============
+*/
+.page {width: 90vw; max-width: var(--max-width); margin: 0 auto;}
+.page {padding-top: 2rem; min-height: calc(100vh - (6rem + 4rem));}
+.introduction img{width: 350px; display: flex; align-items: flex-end;}
+/*
+=============== 
+Footer
+===============
+*/
+.page-footer {text-align: center; height: 6rem; display: flex; align-items: center; justify-content: center; 
+background: var(--black); color: var(--white);}
+.page-footer h5 {margin-top: 10px;margin-bottom: 10px;}
+.page-footer p {margin-bottom: 0;}
+.page-footer ,.footer-logo,.page-footer a {color: var(--green-light);}
